@@ -6,4 +6,8 @@
 
 <p>As for the other files on this repo:<a href="https://github.com/SandraMuller/FlashingLights/tree/master/BlinkLed">BlinkLed</a> is an example project provided by Visual Studio to help you get started and <a href="https://github.com/SandraMuller/FlashingLights/tree/master/GreenLightSketch">GreenLightSketch</a> is a straight up sketch that I used to check my device before jumping into a new IDE (I wanted to eliminate possible errors if the device didn't work in VS).</p>
 
-<p>more information and image examples to come..</p>
+<p>more information and image examples to come.</p>
+
+<p align="center">
+  <img src="https://github.com/SandraMuller/FlashingLights/blob/master/comms.jpg"/>
+</p>
